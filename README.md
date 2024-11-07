@@ -1,2 +1,2 @@
 # PoligonYonetimSistemi
-Veritabanı ile bağlantısı sağlanmış poligon menüsü.
+3 giriş tipi bulunmaktadır. Yönetici,Müşteri,Çalışan
