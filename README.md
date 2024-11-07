@@ -1,2 +1,4 @@
 # PoligonYonetimSistemi
-3 giriş tipi bulunmaktadır. Yönetici,Müşteri,Çalışan
+Veritabanı ile bağlantısı sağlanmış poligon örneği.
+--> Net 8.0 ile tasarlanmıştır.
+--> 3 giriş tipi bulunmaktadır; yönetici,çalışan,müşteri.
