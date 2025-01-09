@@ -4,7 +4,11 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 
 Özellikler :
 
-Proje Platformu: .NET 8.0, Veritabanı Bağlantısı: Sistem veritabanı ile entegre çalışmaktadır, Kullanıcı Rolleri: Yönetici (tam yetkili), Çalışan (kısıtlı yetkilerle günlük işlemler), Müşteri (sadece kişisel bilgilerini görüntüleyebilir), Poligon Yönetimi: Poligon verilerinin eklenmesi, güncellenmesi ve silinmesi işlemleri yapılabilir, Gelişmiş Güvenlik: Kullanıcıların sisteme güvenli giriş yapabilmesi için doğrulama mekanizmaları kullanılmıştır.
+Proje Platformu: 
+.NET 8.0, Veritabanı Bağlantısı: Sistem veritabanı ile entegre çalışmaktadır.
+Kullanıcı Rolleri: Yönetici (tam yetkili), Çalışan (kısıtlı yetkilerle günlük işlemler), Müşteri (sadece kişisel bilgilerini görüntüleyebilir),
+Poligon Yönetimi: Poligon verilerinin eklenmesi, güncellenmesi ve silinmesi işlemleri yapılabilir, 
+Gelişmiş Güvenlik: Kullanıcıların sisteme güvenli giriş yapabilmesi için doğrulama mekanizmaları kullanılmıştır.
 
 Kurulum :
 
