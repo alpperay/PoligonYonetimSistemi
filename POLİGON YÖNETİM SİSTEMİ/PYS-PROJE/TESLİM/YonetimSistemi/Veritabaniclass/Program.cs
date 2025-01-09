@@ -3,7 +3,6 @@ calisanDAL calisan =new calisanDAL();
 mermiDAL mermi=new mermiDAL(); 
 musteriDAL musteri = new musteriDAL(); 
 silahDAL silah =new silahDAL(); 
-kiralamaDAL kiralama=new kiralamaDAL(); 
 string sorgu;
 
 do{
