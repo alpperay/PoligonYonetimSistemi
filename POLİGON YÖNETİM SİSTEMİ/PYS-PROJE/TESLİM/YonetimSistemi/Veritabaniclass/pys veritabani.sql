@@ -309,7 +309,3 @@ INSERT INTO `silah` (`silahID`, `silahAd`, `silahFiyat`, `silahStok`) VALUES ('4
 INSERT INTO `silah` (`silahID`, `silahAd`, `silahFiyat`, `silahStok`) VALUES ('48','Claridge Hi-Tec/Goncz Pistol','492','68');
 INSERT INTO `silah` (`silahID`, `silahAd`, `silahFiyat`, `silahStok`) VALUES ('49','Cobra','653','10');
 INSERT INTO `silah` (`silahID`, `silahAd`, `silahFiyat`, `silahStok`) VALUES ('50','Colt M1911','512','55');
-
--- --------------------------------------------------------
-
-
