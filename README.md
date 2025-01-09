@@ -19,5 +19,8 @@ Proje Çalıştırma: Visual Studio veya benzeri bir IDE ile projeyi açın ve �
 Kullanım :
 
 Sisteme giriş yapın ve kullanıcı türüne göre yetkileri keşfedin: Yönetici olarak kullanıcı ekleyebilir ve tüm verileri yönetebilirsiniz. Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz. Müşteri olarak yalnızca kendi bilgilerinizi görüntüleyebilirsiniz.
-Katkıda Bulunma
-GitHub reposunu fork edin, 2. Kendi değişikliklerinizi yapın ve pull request gönderin.
+
+Katkıda Bulunma :
+
+1) GitHub reposunu fork edin,
+2) 2. Kendi değişikliklerinizi yapın ve pull request gönderin.
