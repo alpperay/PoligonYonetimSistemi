@@ -23,4 +23,4 @@ Sisteme giriş yapın ve kullanıcı türüne göre yetkileri keşfedin: Yöneti
 Katkıda Bulunma :
 
 1) GitHub reposunu fork edin,
-2) 2. Kendi değişikliklerinizi yapın ve pull request gönderin.
+2) Kendi değişikliklerinizi yapın ve pull request gönderin.
