@@ -15,7 +15,7 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 3) Wamp Server veya XAMPP Kullanarak Veritabanı Bağlantısını Sağlayın:
 Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan birini bilgisayarınıza kurun ve çalıştırın.
 4) Veritabanınızı oluşturun ve ilgili veritabanı bilgilerini appsettings.json dosyasındaki bağlantı string'ine ekleyin.
-Örneğin:
+Örnek bağlantı string'i:
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=veritabaniAdi;User Id=root;Password=;"
 }
