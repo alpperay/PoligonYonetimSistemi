@@ -10,4 +10,3 @@ Yönetici: Sistemde tam yetkili kullanıcıdır, tüm işlemleri gerçekleştire
 Müşteri: En düşük yetkili kullanıcıdır, yalnızca kişisel bilgilerine erişebilir.
 Poligon Yönetimi: Poligon verilerinin sisteme eklenmesi, güncellenmesi ve silinmesi işlemleri yapılabilir.
 Gelişmiş Güvenlik: Kullanıcıların sisteme güvenli bir şekilde giriş yapabilmesi için doğrulama mekanizmaları kullanılmıştır.
--
