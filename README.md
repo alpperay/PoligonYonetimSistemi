@@ -16,10 +16,10 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 
 # Kullanım :
 
-1 ) Sisteme giriş yapın ve kullanıcı türüne göre yetkileri keşfedin:
-2 ) Yönetici olarak kullanıcı ekleyebilir ve tüm verileri yönetebilirsiniz. 
-3 ) Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz. 
-4 ) Müşteri olarak poligon için silah alma, mermi alma gibi işlemleri gerçekleştirebilirsiniz.  
+1) Sisteme giriş yapın ve kullanıcı türüne göre yetkileri keşfedin:
+2) Yönetici olarak kullanıcı ekleyebilir ve tüm verileri yönetebilirsiniz.
+3) Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz.
+4) Müşteri olarak poligon için silah alma ve mermi alma gibi işlemleri gerçekleştirebilirsiniz.
 
 # Katkıda Bulunma :
 
