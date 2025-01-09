@@ -2,13 +2,11 @@
 
 Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve .NET 8.0 ile geliştirilmiştir. Sistem, veritabanı bağlantısı ile çalışır ve farklı kullanıcı rollerine göre erişim ve işlem yapma yetkileri sunar.
 
-# Özellikler :
+# Özellikler : 
 
-Proje Platformu: 
 1) .NET 8.0, Veritabanı Bağlantısı: Sistem veritabanı ile entegre çalışmaktadır.
 2) Kullanıcı Rolleri: Yönetici (tam yetkili), Çalışan (kısıtlı yetkilerle günlük işlemler), Müşteri (sadece kişisel bilgilerini görüntüleyebilir),
 3) Poligon Yönetimi: Poligon verilerinin eklenmesi, güncellenmesi ve silinmesi işlemleri yapılabilir,
-4) Gelişmiş Güvenlik: Kullanıcıların sisteme güvenli giriş yapabilmesi için doğrulama mekanizmaları kullanılmıştır.
 
 # Kurulum :
 
@@ -21,7 +19,7 @@ Proje Platformu:
 1 ) Sisteme giriş yapın ve kullanıcı türüne göre yetkileri keşfedin:
 2 ) Yönetici olarak kullanıcı ekleyebilir ve tüm verileri yönetebilirsiniz. 
 3 ) Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz. 
-4 ) Müşteri olarak yalnızca kendi bilgilerinizi görüntüleyebilirsiniz.
+4 ) Müşteri olarak poligon için silah alma, mermi alma gibi işlemleri gerçekleştirebilirsiniz.  
 
 # Katkıda Bulunma :
 
