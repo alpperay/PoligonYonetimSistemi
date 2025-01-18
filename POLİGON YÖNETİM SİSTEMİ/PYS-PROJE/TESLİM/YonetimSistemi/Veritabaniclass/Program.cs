@@ -25,7 +25,11 @@ do{
     case("M"):
 	musterimenusu(); 
 	break;
+    case ("C"):
+         Console.WriteLine("Sistemden Çıkılıyor...");
+	 break;
  }
+	
 
 }while(sorgu!="C");
 
