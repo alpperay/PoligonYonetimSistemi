@@ -10,15 +10,20 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 
 ## Kurulum :
 
-1) Proje Dosyasını İndirin: GitHub reposunu bilgisayarınıza klonlayın: git clone https://github.com/kullaniciadi/PoligonYonetimSistemi.git
+1) Proje Dosyasını İndirin: GitHub reposunu bilgisayarınıza klonlayın:
+```bash
+git clone https://github.com/kullaniciadi/PoligonYonetimSistemi.git
+```
 2) Wamp Server veya XAMPP Kullanarak Veritabanı Bağlantısını Sağlayın:
 Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan birini bilgisayarınıza kurun ve çalıştırın.
 3) Veritabanınızı oluşturun ve ilgili veritabanı bilgilerini appsettings.json dosyasındaki bağlantı string'ine ekleyin.
 Örnek bağlantı string'i:
+```bash
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=veritabaniAdi;User Id=root;Password=;"
 }
-(Burada localhost, veritabaniAdi gibi kısımları kendi yerel veritabanı ayarlarınıza göre değiştirdiğinizden emin olun.)
+```
+- (Burada localhost, veritabaniAdi gibi kısımları kendi yerel veritabanı ayarlarınıza göre değiştirdiğinizden emin olun.)
 4) Proje Çalıştırma: Visual Studio veya benzeri bir IDE ile projeyi açın ve çalıştırmak için F5 tuşuna basın.
 
 ## Kullanım :
