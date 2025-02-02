@@ -12,7 +12,7 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 
 1) Proje Dosyasını İndirin: GitHub reposunu bilgisayarınıza klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/PoligonYonetimSistemi.git
+git clone <repo-url>
 ```
 2) Wamp Server veya XAMPP Kullanarak Veritabanı Bağlantısını Sağlayın:
 Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan birini bilgisayarınıza kurun ve çalıştırın.
