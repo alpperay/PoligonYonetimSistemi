@@ -33,6 +33,14 @@ Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan bi
 3) Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz.
 4) Müşteri olarak poligon için silah alma ve mermi alma gibi işlemleri gerçekleştirebilirsiniz.
 
+## Yazar
+
+Alp Eray Taşçı
+
+## Lisans
+
+2025 Alp Eray Taşçı Tüm Hakları Saklıdır.
+
 ## Katkıda Bulunma :
 
 1) GitHub reposunu fork edin,
