@@ -10,21 +10,30 @@ Bu proje, bir Poligon Yönetim Sistemi'nin temel özelliklerini barındırır ve
 
 ## Kurulum :
 
-1) Proje Dosyasını İndirin: GitHub reposunu bilgisayarınıza klonlayın:
-```bash
+1. Proje Dosyasını İndirin: GitHub reposunu bilgisayarınıza klonlayın:
+```sh
 git clone <repo-url>
 ```
-2) Wamp Server veya XAMPP Kullanarak Veritabanı Bağlantısını Sağlayın:
+2. Wamp Server veya XAMPP Kullanarak Veritabanı Bağlantısını Sağlayın:
 Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan birini bilgisayarınıza kurun ve çalıştırın.
-3) Veritabanınızı oluşturun ve ilgili veritabanı bilgilerini appsettings.json dosyasındaki bağlantı string'ine ekleyin.
+3. Veritabanınızı oluşturun ve ilgili veritabanı bilgilerini appsettings.json dosyasındaki bağlantı string'ine ekleyin.
 Örnek bağlantı string'i:
-```bash
+```sh
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=veritabaniAdi;User Id=root;Password=;"
 }
 ```
 - (Burada localhost, veritabaniAdi gibi kısımları kendi yerel veritabanı ayarlarınıza göre değiştirdiğinizden emin olun.)
-4) Proje Çalıştırma: Visual Studio veya benzeri bir IDE ile projeyi açın ve çalıştırmak için F5 tuşuna basın.
+ 
+4. Proje dizinine gidin:
+```sh
+  cd project-folder
+````
+
+5. Projeyi çalıştırın:
+````sh
+dotnet run
+````
 
 ## Kullanım :
 
@@ -33,7 +42,7 @@ Eğer Wamp Server veya XAMPP kullanıyorsanız, öncelikle bu yazılımlardan bi
 3) Çalışan olarak günlük işlemleri takip edebilir ve poligonlarla ilgili işlemler yapabilirsiniz.
 4) Müşteri olarak poligon için silah alma ve mermi alma gibi işlemleri gerçekleştirebilirsiniz.
 
-## Yazar
+## Geliştirici & Yazar
 
 Alp Eray Taşçı
 
