@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 calisanDAL calisan =new calisanDAL(); 
 mermiDAL mermi=new mermiDAL(); 
 musteriDAL musteri = new musteriDAL(); 
